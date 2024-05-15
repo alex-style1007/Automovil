@@ -1,5 +1,5 @@
 
-# Ejercicio de POO en C# con clases Automovil y Usuario
+# Ejercicio de POO en C# y Python con clases Automovil y Usuario
 * Contexto:
 
 Imagina un sistema de gestión de alquiler de autos. En este sistema, necesitamos almacenar información sobre los autos disponibles y los usuarios que los alquilan. Para ello, podemos crear dos clases: Automovil y Usuario.
