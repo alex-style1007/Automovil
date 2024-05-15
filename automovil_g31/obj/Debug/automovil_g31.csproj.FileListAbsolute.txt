@@ -1,0 +1,2 @@
+C:\Users\alexa\source\repos\automovil_g31\automovil_g31\obj\Debug\automovil_g31.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\automovil_g31\automovil_g31\obj\Debug\automovil_g31.csproj.CoreCompileInputs.cache
